@@ -240,7 +240,7 @@ The output from rake sanitation:all shows…
 
 Team: Jai Misra & Justin Holzmann
 
-Github Repo:
+Github Repo: https://github.com/philmphoenix/sales_engine
 
 Assessed By:
 
